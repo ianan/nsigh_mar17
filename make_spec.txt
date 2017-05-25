@@ -1,0 +1,14 @@
+
+
+nuproducts indir=./ instrument=FPMB steminputs=nu20211002001 outdir=./spec_CCB1000 extended=no runmkarf=yes runmkrmf=yes infile=nu20211002001B06_chu3_S_cl.evt bkgextract=no srcregionfile=CCB_20211002001_1000.reg  attfile=./nu20211002001_att.fits hkfile=./nu20211002001B_fpm.hk
+
+nuproducts indir=./ instrument=FPMB steminputs=nu20211002001 outdir=./spec_CCB1001 extended=no runmkarf=yes runmkrmf=yes infile=nu20211002001B06_chu3_S_cl.evt bkgextract=no srcregionfile=CCB_20211002001_1001.reg  attfile=./nu20211002001_att.fits hkfile=./nu20211002001B_fpm.hk
+
+nuproducts indir=./ instrument=FPMB steminputs=nu20211002001 outdir=./spec_CCB1002 extended=no runmkarf=yes runmkrmf=yes infile=nu20211002001B06_chu3_S_cl.evt bkgextract=no srcregionfile=CCB_20211002001_1002.reg  attfile=./nu20211002001_att.fits hkfile=./nu20211002001B_fpm.hk
+
+nuproducts indir=./ instrument=FPMB steminputs=nu20211002001 outdir=./spec_CCB1003 extended=no runmkarf=yes runmkrmf=yes infile=nu20211002001B06_chu3_S_cl.evt bkgextract=no srcregionfile=CCB_20211002001_1003.reg  attfile=./nu20211002001_att.fits hkfile=./nu20211002001B_fpm.hk
+
+
+	;======================================================================
+
+	
